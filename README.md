@@ -43,24 +43,24 @@ Este aplicativo é uma plataforma para criar, visualizar, editar e excluir (CRUD
 3. **Instalando as Depêndencias:**
    - Para instalar as dependências listadas no arquivo "package.json", você pode usar o comando `npm install` no terminal. Certifique-se de estar no diretório do seu projeto onde o arquivo "package.json" está localizado. O npm irá ler o arquivo "package.json" e instalar todas as dependências listadas nele. 
 
-   ```bash
-   npm install
-   ```
+```bash
+npm install
+```
 
 4. **Executando o Aplicativo:**
-   - Para subir o servidor, no diretório do seu [projeto](./CODIGO/APP.js), digite o seguinte comando no Terminal/CMD:
+- Para subir o servidor, no diretório do seu [projeto](./CODIGO/APP.js), digite o seguinte comando no Terminal/CMD:
 
-  - Para usar o `NODE`, inicie com o seguinte comando:
-    ```bash
-    npm start
-    ```
+- Para usar o `NODE`, inicie com o seguinte comando:
+ ```bash
+ npm start
+ ```
 
-   - Para usar o `NODEMON`, inicie com o seguinte comando:
-    ```bash
-    npm test
-    ```
+- Para usar o `NODEMON`, inicie com o seguinte comando:
+ ```bash
+ npm test
+ ```
 
-   - Acesse o APP no navegador visitando [http://localhost:8081](http://localhost:8081).
+- Acesse o APP no navegador visitando [http://localhost:8081](http://localhost:8081).
 
 ## NÃO SABE?
 - Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
